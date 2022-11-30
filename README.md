@@ -5,3 +5,5 @@
 ## Or you could do it the easy way:
 
 By magic!
+
+![dotdotdot.png](dotdotdot.png)
