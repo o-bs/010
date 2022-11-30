@@ -4,4 +4,4 @@
 
 ## Or you could do it the easy way:
 
-https://
+By magic!
